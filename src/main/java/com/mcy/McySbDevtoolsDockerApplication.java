@@ -1,0 +1,13 @@
+package com.mcy;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class McySbDevtoolsDockerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(McySbDevtoolsDockerApplication.class, args);
+	}
+
+}
