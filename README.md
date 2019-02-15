@@ -1,7 +1,7 @@
 # Spring Boot Devtools ile Docker Üzerindeki Kodu Debug Etme ve Değiştirme
 
 
-[Blog Yazısı https://medium.com/a5f1c52ad6b5](https://medium.com/@mehmetcemyucel/spring-boot-devtools-ile-docker-uzerindeki-kodu-debug-etme-ve-degistirme-a5f1c52ad6b5)
+[Blog Yazısı Spring Boot Devtools ile Docker Üzerindeki Kodu Debug Etme ve Değiştirme](https://www.mehmetcemyucel.com/2019/spring-boot-devtools-ile-docker-uzerindeki-kodu-debug-etme-ve-degistirme/)
 
 ### Prerequisites
 
